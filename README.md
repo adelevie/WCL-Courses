@@ -47,4 +47,4 @@ Section 107 contains a list of the various purposes for which the reproduction o
 4. The effect of the use upon the potential market for, or value of, the copyrighted work
 ```
 
-The reproduction of data in this repository is not of commercial nature and will be used for research. Such research will may potentially serve as the basis for commentary on WCL.
+The reproduction of data in this repository is not of commercial nature and will be used for research. Such research may potentially serve as the basis for commentary on WCL.
